@@ -1,6 +1,8 @@
 # My Portfolio
 
 This repository contains the code for my personal portfolio website.
+## Live website : 
+https://teju-chowdary.github.io/My-Portfolio/
 
 
 ## Demo Screenshots
